@@ -1,0 +1,44 @@
+_repo: M-moires-secrets-de-Fournier-l-Am-ricain_8864
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Aulard, F.-A. (François-Alphonse)
+    aliases:
+    - Aulard, F.-A. (Francois-Alphonse)
+    - Aulard, François Victor Alphonse
+    - Aulard, Alphonse
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '2894'
+    url: http://www.gutenberg.org/2009/agents/2894
+    wikipedia: http://en.wikipedia.org/wiki/François_Victor_Alphonse_Aulard
+creator:
+  author:
+    agent_name: Fournier, Claude
+    aliases:
+    - Fournier L'Heritier, Claude
+    - Fournier L'Héritier, Claude
+    - Fournier l'Americain, Claude
+    - Fournier l'Américain, Claude
+    birthdate: 1745
+    deathdate: 1825
+    gutenberg_agent_id: '2903'
+    url: http://www.gutenberg.org/2009/agents/2903
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Fournier
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8864'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Personal narratives'
+- !lcsh 'Fournier, Claude, 1745-1825'
+- GITenberg
+title: Mémoires secrets de Fournier l'Américain
+url: http://www.gutenberg.org/ebooks/8864
