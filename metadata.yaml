@@ -1,5 +1,5 @@
 _repo: M-moires-secrets-de-Fournier-l-Am-ricain_8864
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   annotator:
     agent_name: Aulard, F.-A. (François-Alphonse)
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '2894'
     url: http://www.gutenberg.org/2009/agents/2894
     wikipedia: http://en.wikipedia.org/wiki/François_Victor_Alphonse_Aulard
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fournier, Claude
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2903
     wikipedia: http://en.wikipedia.org/wiki/Claude_Fournier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8864#M-moires-secrets-de-Fournier-l-Am-ricain
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
